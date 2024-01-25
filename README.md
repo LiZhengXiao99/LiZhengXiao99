@@ -23,18 +23,19 @@
 
 <div>&nbsp;</div>
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/steven.png" />
+<img align="right" width="108" src="https://pic-bed-1316053657.cos.ap-nanjing.myqcloud.com/img/18_%E6%9D%8E%E9%83%91%E9%AA%81.jpg" />
 
 <p>&emsp;&emsp;嗨，你好，我是李郑骁，安徽理工大学导航工程系本科生。</p>
 <p>&emsp;&emsp;热爱编程、读书、思考、音乐。</p>
 <p>&emsp;&emsp;正在学习 GNSS、INS、SLAM，希望能成为一名优秀的开发者。</p>
-<p><strong>&emsp;&emsp;希望能做出一些名堂，为建设美好世界贡献出自己的一份力。</strong></p>
+<p>&emsp;&emsp;希望能做出一些名堂，为建设美好世界贡献出自己的一份力。</strong></p>
 <p><strong>&emsp;&emsp;Hope to make some achievements and contribute my own efforts to building a better world.</strong></p>
 
 </td></tr>
 
 <tr><td>
-<table><tr><td align="center" width="45%">
+<table>
+<tr><td align="center" width="55%">
     
 [![LiZhengXiao99's github stats](https://github-readme-stats.vercel.app/api?username=LiZhengXiao99&count_private=true&show_icons=true&theme=dark)](https://github.com/LiZhengXiao99/github-readme-stats)
 
@@ -42,7 +43,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LiZhengXiao99&layout=compact&theme=dark)](https://github.com/LiZhengXiao99/github-readme-stats)
 
-</td></tr></table>
+</td></tr>
+</table>
 </td></tr>
 
 </table>
