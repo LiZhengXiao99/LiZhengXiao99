@@ -82,12 +82,8 @@
 <tr><td>
     
 ### 📚 Recommended Books
-| ![image-20240125151501500](https://pic-bed-1316053657.cos.ap-nanjing.myqcloud.com/img/image-20240125151501500.png) | ![image-20240125150817120](https://pic-bed-1316053657.cos.ap-nanjing.myqcloud.com/img/image-20240125150817120.png) | ![image-20240125150841542](https://pic-bed-1316053657.cos.ap-nanjing.myqcloud.com/img/image-20240125150841542.png) | ![image-20240125151105057](https://pic-bed-1316053657.cos.ap-nanjing.myqcloud.com/img/image-20240125151105057.png) |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![image-20240125151313319](https://pic-bed-1316053657.cos.ap-nanjing.myqcloud.com/img/image-20240125151313319.png) | ![image-20240125151600623](https://pic-bed-1316053657.cos.ap-nanjing.myqcloud.com/img/image-20240125151600623.png) | ![img](https://pic-bed-1316053657.cos.ap-nanjing.myqcloud.com/img/5243fbf2b2119313b07e5603d5701bd7912397dd2765) | ![](https://pic-bed-1316053657.cos.ap-nanjing.myqcloud.com/img/image-20240125151912558.png) |
-| ![image-20240125152528689](https://pic-bed-1316053657.cos.ap-nanjing.myqcloud.com/img/image-20240125152528689.png) | ![image-20240125152600195](https://pic-bed-1316053657.cos.ap-nanjing.myqcloud.com/img/image-20240125152600195.png) | ![image-20240125152938379](https://pic-bed-1316053657.cos.ap-nanjing.myqcloud.com/img/image-20240125152938379.png) | ![image-20240125153122333](https://pic-bed-1316053657.cos.ap-nanjing.myqcloud.com/img/image-20240125153122333.png) |
 
-
+![image-20240125155004417](https://pic-bed-1316053657.cos.ap-nanjing.myqcloud.com/img/image-20240125155004417.png)
 
 </td></tr>
 
@@ -131,9 +127,6 @@
 </td></tr>
 
 </table>
-
-
-
 
 
 
