@@ -64,6 +64,9 @@
 
 
 <tr><td>
+
+### 📊 Github statistics
+
 <table>
 
 <tr><td align="center" width="55%">
