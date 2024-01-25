@@ -21,12 +21,28 @@
 
 <img align="right" width="108" src="https://pic-bed-1316053657.cos.ap-nanjing.myqcloud.com/img/18_%E6%9D%8E%E9%83%91%E9%AA%81.jpg" />
 
-<p>&emsp;&emsp;嗨，你好，我是李郑骁，安徽理工大学导航工程系本科生。</p>
-<p>&emsp;&emsp;热爱编程、读书、思考、音乐。</p>
-<p>&emsp;&emsp;正在学习 GNSS、INS、SLAM，希望能成为一名优秀的开发者。</p>
-<p>&emsp;&emsp;希望能做出一些名堂，为建设美好世界贡献出自己的一份力。</strong></p>
-<p><strong>&emsp;&emsp;Hope to make some achievements and contribute my own efforts to building a better world.</strong></p>
+<p>&emsp;&emsp;👋 嗨，你好，我是李郑骁。</p>
+<p>&emsp;&emsp;👨‍🎓 安徽理工大学导航工程系本科生。</p>
+<p>&emsp;&emsp;✨ 热爱编程、音乐、读书、思考。</p>
+<p>&emsp;&emsp;💻 掌握编程语言有 C、C++、C#、MATLAB、Python。</p>
+<p>&emsp;&emsp;🛠 接触过 Arduino、STM32、Raspberry Pi、Jetson Nano、HackRF。</p>
+<p>&emsp;&emsp;🕵️‍♂️ 研究方向包括 GNSS、INS、SLAM，系统学习过 RTKLIB、PSINS、ORB-SLAM 等开源程序。</p>
+<p>&emsp;&emsp;🔔 希望能成为一名优秀的开发者，做出一些名堂，为建设美好世界贡献出自己的一份力。</strong></p>
+<p><strong>&emsp;&emsp;🌍🌎🌏 Hope to make some achievements and contribute my own efforts to building a better world. 🌍🌎🌏</strong></p>
 </td></tr>
+
+<tr><td>
+    
+### 🤝  Contact Me
+
+- ☎ 电话：15255291038
+- 🍀 微信：lizhengxiao99
+- 🐧 QQ：1482275402
+- 📩 Email：dauger@126.com
+
+
+</td></tr>
+
 
 
 <tr><td>
