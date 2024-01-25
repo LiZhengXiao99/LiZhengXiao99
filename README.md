@@ -47,7 +47,7 @@
 
 <div>&nbsp;</div>
 
-<img align="right" width="168" src="https://pic-bed-1316053657.cos.ap-nanjing.myqcloud.com/img/18_%E6%9D%8E%E9%83%91%E9%AA%81.jpg" />
+<img align="right" width="148" src="https://pic-bed-1316053657.cos.ap-nanjing.myqcloud.com/img/18_%E6%9D%8E%E9%83%91%E9%AA%81.jpg" />
 
 <p>&emsp;&emsp;👋 嗨，你好，我是李郑骁。</p>
 <p>&emsp;&emsp;👨‍🎓 安徽理工大学导航工程系本科生。</p>
@@ -81,12 +81,13 @@
 
 <tr><td>
     
-### 🤝  Contact Me
+### 📚 Recommended Books
+| ![image-20240125151501500](https://pic-bed-1316053657.cos.ap-nanjing.myqcloud.com/img/image-20240125151501500.png) | ![image-20240125150817120](https://pic-bed-1316053657.cos.ap-nanjing.myqcloud.com/img/image-20240125150817120.png) | ![image-20240125150841542](https://pic-bed-1316053657.cos.ap-nanjing.myqcloud.com/img/image-20240125150841542.png) | ![image-20240125151105057](https://pic-bed-1316053657.cos.ap-nanjing.myqcloud.com/img/image-20240125151105057.png) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ![image-20240125151313319](https://pic-bed-1316053657.cos.ap-nanjing.myqcloud.com/img/image-20240125151313319.png) | ![image-20240125151600623](https://pic-bed-1316053657.cos.ap-nanjing.myqcloud.com/img/image-20240125151600623.png) | ![img](https://pic-bed-1316053657.cos.ap-nanjing.myqcloud.com/img/5243fbf2b2119313b07e5603d5701bd7912397dd2765) | ![](https://pic-bed-1316053657.cos.ap-nanjing.myqcloud.com/img/image-20240125151912558.png) |
+| ![image-20240125152528689](https://pic-bed-1316053657.cos.ap-nanjing.myqcloud.com/img/image-20240125152528689.png) | ![image-20240125152600195](https://pic-bed-1316053657.cos.ap-nanjing.myqcloud.com/img/image-20240125152600195.png) | ![image-20240125152938379](https://pic-bed-1316053657.cos.ap-nanjing.myqcloud.com/img/image-20240125152938379.png) | ![image-20240125153122333](https://pic-bed-1316053657.cos.ap-nanjing.myqcloud.com/img/image-20240125153122333.png) |
 
-<p>&emsp;&emsp;☎ 电话：15255291038</p>
-<p>&emsp;&emsp;🍀 微信：lizhengxiao99</p>
-<p>&emsp;&emsp;🐧 QQ：1482275402</p>
-<p>&emsp;&emsp;📩 Email：dauger@126.com</p>
+
 
 </td></tr>
 
