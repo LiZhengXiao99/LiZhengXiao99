@@ -51,10 +51,27 @@
 <p>&emsp;&emsp;💻 常用编程语言有 C、C++、C#、MATLAB、Python。</p>
 <p>&emsp;&emsp;📚 系统学习过 RTKLIB、GAMP、PSINS、ORB-SLAM 等开源程序。</p>
 <p>&emsp;&emsp;🛠 折腾过 Arduino、STM32、Raspberry Pi、Jetson Nano、HackRF。</p>
-<p>&emsp;&emsp;💡 希望能成为一名优秀的开发者，做出一些名堂，为建设美好世界贡献出自己的一份力。</strong></p>
+<p>&emsp;&emsp;💡 希望能成为一名优秀的开发者，做出点名堂，为建设美好世界贡献出自己的一份力。</strong></p>
 <p><strong>&emsp;&emsp;🌍🌎🌏 Hope to make some achievements and contribute my own efforts to building a better world. 🌍🌎🌏</strong></p>
 
 </td></tr>
+
+
+
+<tr><td>
+<table>
+
+<tr><td align="center" width="55%">
+    
+[![LiZhengXiao99's github stats](https://github-readme-stats.vercel.app/api?username=LiZhengXiao99&count_private=true&show_icons=true&theme=white)](https://github.com/LiZhengXiao99/github-readme-stats)
+
+</td><td align="top" width="45%">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LiZhengXiao99&layout=compact&theme=white)](https://github.com/LiZhengXiao99/github-readme-stats)
+
+</table>
+</td></tr>
+
 
 
 <tr><td>
@@ -103,25 +120,9 @@
 * 
 * 
 * 寒假正儿八经地学 ROS
-* （。。。 精彩还将继续 。。。）
+* （。。。 学无止境，永不停歇，精彩还将继续  。。。）
 
 </td></tr>
-
-
-<tr><td>
-<table>
-
-<tr><td align="center" width="55%">
-    
-[![LiZhengXiao99's github stats](https://github-readme-stats.vercel.app/api?username=LiZhengXiao99&count_private=true&show_icons=true&theme=white)](https://github.com/LiZhengXiao99/github-readme-stats)
-
-</td><td align="top" width="45%">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LiZhengXiao99&layout=compact&theme=white)](https://github.com/LiZhengXiao99/github-readme-stats)
-
-
-</table></td></tr>
-
 
 </table>
 
