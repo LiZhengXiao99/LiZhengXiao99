@@ -3,7 +3,7 @@
 </h1>
 
 <table><tr><td align="center" width="55%">
-[![Guoqing's github stats](https://github-readme-stats.vercel.app/api?username=LiZhengXiao99&count_private=true&show_icons=true&theme=dark)](https://github.com/DreamWaterFound/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=LiZhengXiao99&count_private=true&show_icons=true&theme=dark)](https://github.com/DreamWaterFound/github-readme-stats)
 
 </td><td align="top" width="45%">
 
