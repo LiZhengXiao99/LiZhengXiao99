@@ -58,6 +58,7 @@
 <p>&emsp;&emsp;🛠 接触过 Arduino、STM32、Raspberry Pi、Jetson Nano、HackRF。</p>
 <p>&emsp;&emsp;💡 希望能成为一名优秀的开发者，做出点名堂，为建设美好世界贡献出自己的一份力。</strong></p>
 <p><strong>&emsp;&emsp;🌍🌎🌏 Hope to make some achievements and contribute my own efforts to building a better world. 🌍🌎🌏</strong></p>
+<div>&nbsp;</div>
 
 </td></tr>
 
@@ -91,10 +92,6 @@
 </td></tr>
 
 
-
-
-
-
 <tr><td>
     
 ### 📃 Recent Blog
@@ -103,24 +100,6 @@
 
 </td></tr>
 
-
-
-<tr><td>
-    
-### 🏢 Study Experience
-
-
-
-</td></tr>
-
-
-<tr><td>
-    
-### 👨‍👨‍👧‍👦 My Following
-
-
-
-</td></tr>
 
 </table>
 
