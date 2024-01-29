@@ -51,12 +51,12 @@
 
 <p>&emsp;&emsp;👋 嗨，你好，我是李郑骁。</p>
 <p>&emsp;&emsp;👨‍🎓 安徽理工大学导航工程本科生。</p>
-<p>&emsp;&emsp;✨ 热爱编程、愿意钻研、不怕折腾。</p>
-<p>&emsp;&emsp;🕵️‍♂️ 研究方向包括 GNSS、INS、SLAM、SDR。</p>
-<p>&emsp;&emsp;💻 常用编程语言有 C、C++、C#、MATLAB、Python。</p>
-<p>&emsp;&emsp;📚 系统学习过 RTKLIB、GAMP、PSINS、ORB-SLAM 等开源程序。</p>
-<p>&emsp;&emsp;🛠 接触过 Arduino、STM32、Raspberry Pi、Jetson Nano、HackRF。</p>
-<p>&emsp;&emsp;💡 希望能成为一名优秀的开发者，做出点名堂，为建设美好世界贡献出自己的一份力。</strong></p>
+<p>&emsp;&emsp;🕵️‍♂️ 研究方向包括 GNSS、INS、SLAM、SDR、嵌入式。</p>
+<p>&emsp;&emsp;✨ 热爱编程、喜欢折腾、尝试过不少技术但掌握的还都很浅。</p>
+<p>&emsp;&emsp;💻 常用编程语言有 C、C++、C#、MATLAB、Python、Verilog。</p>
+<p>&emsp;&emsp;📚 系统学习过 RTKLIB、GAMP、SoftGNSS、PSINS、ORB-SLAM 等开源程序。</p>
+<p>&emsp;&emsp;🛠 接触过 Arduino、ESP32、STM32、ZYNQ、Raspberry Pi、Jetson Nano、HackRF。</p>
+<p>&emsp;&emsp;💡 希望能成为一名优秀的开发者，做出点名堂来，为建设美好世界贡献出自己的一份力。</strong></p>
 <p><strong>&emsp;&emsp;🌍🌎🌏 Hope to make some achievements and contribute my own efforts to building a better world. 🌍🌎🌏</strong></p>
 <div>&nbsp;</div>
 
