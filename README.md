@@ -84,15 +84,6 @@
 
 <tr><td>
     
-### 📚 Recommended Books
-
-![image-20240125155004417](https://pic-bed-1316053657.cos.ap-nanjing.myqcloud.com/img/image-20240125155004417.png)
-
-</td></tr>
-
-
-<tr><td>
-    
 ### 📃 Recent Blog
 
 * <a href='' target='_blank'>待补充。。。</a> - 2024-01-25
