@@ -65,7 +65,7 @@
 
 <tr><td>
 
-### 📊 Github statistics
+### 📊 Github Statistics
 
 <table>
 
@@ -82,6 +82,8 @@
 
 
 <tr><td>
+
+### ✨ Github Activity
     
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=LiZhengXiao99&theme=github-compact&custom_title=Activity&radius=30&height=250" alt="Lazy">
 
