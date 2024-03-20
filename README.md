@@ -81,7 +81,11 @@
 </td></tr>
 
 
+<tr><td>
+    
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LiZhengXiao99&theme=github-compact&custom_title=Activity&radius=30&height=250" alt="Lazy">
 
+</td></tr>
 
 
 <tr><td>
