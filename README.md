@@ -54,7 +54,7 @@
 <p>&emsp;&emsp;✨ 热爱编程、喜欢折腾、尝试过不少技术但掌握的还都很浅。</p>
 <p>&emsp;&emsp;💻 常用编程语言有 C、C++、C#、MATLAB、Python、Verilog。</p>
 <p>&emsp;&emsp;📚 系统学习过 RTKLIB、GAMP、SoftGNSS、PSINS、ORB-SLAM 等开源程序。</p>
-<p>&emsp;&emsp;💡 希望能成为一名优秀的开发者，做些有价值的工作，为建设美好世界贡献出自己的一份力。</strong></p>
+<p>&emsp;&emsp;💡 希望能成为一名优秀的开发者，做些有价值的开源工作，为建设美好世界贡献出自己的一份力。</strong></p>
 <p><strong>&emsp;&emsp;🌍🌎🌏 Hope to make some achievements and contribute my own efforts to building a better world. 🌍🌎🌏</strong></p>
 <div>&nbsp;</div>
 
