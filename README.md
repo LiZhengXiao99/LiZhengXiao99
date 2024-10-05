@@ -46,7 +46,7 @@
 
 <div>&nbsp;</div>
 
-<img align="right" width="188" src="https://pic-bed-1316053657.cos.ap-nanjing.myqcloud.com/img/104987988.png" />
+<img align="right" width="300" src="https://pic-bed-1316053657.cos.ap-nanjing.myqcloud.com/img/662bf58e5529e6a138945e9ffc90893e.png" />
 
 <p>&emsp;&emsp;👋 嗨，你好，我是李郑骁。</p>
 <p>&emsp;&emsp;👨‍🎓 安徽理工大学导航工程本科生。</p>
